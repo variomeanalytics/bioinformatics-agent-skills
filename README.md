@@ -1,6 +1,6 @@
 # Bioinformatics Agent Skills
 
-By [**Pipette.bio**](https://pipette.bio) — AI tooling for molecular biologists.
+By [**Pipette.bio**](https://pipette.bio) — Agentic bioinformatics for wet-lab biologists.
 
 **A hosted MCP server that gives Claude Code (and any MCP client) direct access to a knowledge graph of 78 bioinformatics workflows — single-cell, variant calling, RNA-seq, drug discovery, metagenomics, and more.**
 
@@ -119,7 +119,7 @@ The SkillGraph knowledge graph was built from open-access bioinformatics papers 
 
 ## About us
 
-Built by [Variome Analytics / Pipette.bio](https://pipette.bio). We make AI tooling accessible to molecular biologists.
+Built by [Variome Analytics / Pipette.bio](https://pipette.bio). We build agentic bioinformatics for wet-lab biologists.
 
 ## Issues and feedback
 
