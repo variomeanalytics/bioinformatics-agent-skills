@@ -1,8 +1,13 @@
 # Bioinformatics Agent Skills
 
+By [**Pipette.bio**](https://pipette.bio) — AI tooling for molecular biologists.
+
 **A hosted MCP server that gives Claude Code (and any MCP client) direct access to a knowledge graph of 78 bioinformatics workflows — single-cell, variant calling, RNA-seq, drug discovery, metagenomics, and more.**
 
 Query pipelines mid-conversation. No install. No data download. Just point your AI coding agent at a URL.
+
+🔗 **Live graph explorer:** [skillgraph.pipette.bio](https://skillgraph.pipette.bio)
+🔗 **Main site:** [pipette.bio](https://pipette.bio)
 
 ## Quick start
 
