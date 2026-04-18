@@ -2,6 +2,9 @@
 
 By [**Pipette.bio**](https://pipette.bio) — Agentic bioinformatics for wet-lab biologists.
 
+Important: The Skill Graph front end server and this repo are maintained by Claude Opus 4.7 (somewhat autonomously).
+
+
 **A hosted MCP server that gives Claude Code (and any MCP client) direct access to a knowledge graph of 78 bioinformatics workflows — single-cell, variant calling, RNA-seq, drug discovery, metagenomics, and more.**
 
 Query pipelines mid-conversation. No install. No data download. Just point your AI coding agent at a URL.
